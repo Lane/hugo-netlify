@@ -11,14 +11,14 @@ description: >-
   anyone.
 intro:
   blurbs:
-    - image: /img/illustrations/coffee.svg
+    - image: /img/arrow-left.svg
       text: >
         We sell green and roasted coffee beans that are sourced directly from
         independent farmers and farm cooperatives. We’re proud to offer a
         variety of coffee beans grown with great care for the environment and
         local communities. Check our post or contact us directly for current
         availability.
-    - image: /img/illustrations/coffee-gear.svg
+    - image: /img/check-circle.svg
       text: >
         We offer a small, but carefully curated selection of brewing gear and
         tools for every taste and experience level. No matter if you roast your
@@ -56,15 +56,13 @@ main:
     image: /img/products/products-grid3.jpg
   image2:
     alt: A green cup of a coffee on a wooden table
-    image: /img/products/products-grid2.jpg
+    image: /img/star-outline.svg
   image3:
     alt: Coffee beans
     image: /img/products/products-grid1.jpg
 testimonials:
   - author: Elisabeth Kaurismäki
-    quote: >-
-      The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
+    quote: ' believe that was the same thing I’ve been drinking every morning.'
   - author: Philipp Trommler
     quote: >-
       Kaldi is the place to go if you want the best quality coffee. I love their
